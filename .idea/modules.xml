@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/apigateway/apigateway.iml" filepath="$PROJECT_DIR$/apigateway/apigateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/microservices-parent.iml" filepath="$PROJECT_DIR$/.idea/microservices-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notification/notificationservice.iml" filepath="$PROJECT_DIR$/notification/notificationservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/payment/paymentservice.iml" filepath="$PROJECT_DIR$/payment/paymentservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicediscovery/servicediscovery.iml" filepath="$PROJECT_DIR$/servicediscovery/servicediscovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/theatreonboard/theatreonboard.iml" filepath="$PROJECT_DIR$/theatreonboard/theatreonboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ticketbooking/ticketbooking.iml" filepath="$PROJECT_DIR$/ticketbooking/ticketbooking.iml" />
+    </modules>
+  </component>
+</project>
